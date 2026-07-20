@@ -36,6 +36,8 @@ img{ max-width:100%; display:block; }
   align-items:center;
   gap:8px;
 }
+.sch-brand-logo{ height:32px; width:auto; }
+.sch-hero-logo{ height:48px; width:auto; }
 .sch-nav-links{
   display:flex;
   gap:22px;
