@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <rect width="400" height="100" fill="#0F2A4A" rx="12"/>
+  <text x="50" y="68" font-size="52" fill="#fff">&#x2696;&#xFE0F;</text>
+  <text x="110" y="52" font-family="Poppins,Arial,sans-serif" font-weight="700" font-size="22" fill="#fff">Scalecare</text>
+  <text x="110" y="76" font-family="Inter,Arial,sans-serif" font-weight="600" font-size="16" fill="#9CC1F0">Technologies</text>
+</svg>
