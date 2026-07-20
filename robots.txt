@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://scalecarehub.com.my/sitemap.xml
+Sitemap: https://myscalecare.thesoft.workers.dev/sitemap.xml
